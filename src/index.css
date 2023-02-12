@@ -7,6 +7,18 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.card-body {
+  text-align: center;
+}
+
+.card-title h5 {
+  font-size: 1.2rem;
+}
+
+.card-img-top {
+  width: 100%;
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;

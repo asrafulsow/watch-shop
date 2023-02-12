@@ -1,0 +1,14 @@
+.categories-top {
+    padding: 40px;
+}
+
+.card {
+    padding: 10px;
+    border-radius: 15px;
+    border: 2px solid #a29e9ecf;
+}
+
+.card-img-top {
+    border-radius: 10px;
+    height: 200px;
+}
